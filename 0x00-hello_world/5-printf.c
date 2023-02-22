@@ -1,11 +1,10 @@
 #include <stdio.h>
 /**
- * main - A program that print a line using the printf function
+ * main - A program that print a line using the pfintf function
  * Return: 0 (Success)
  */
-
 int main(void)
 {
-	print("with proper grammer, but the outcome is a piece of art,\n")
-		return (0);
+printf("with proper grammer, but the outcome is a piece of art,\n")
+return (0);
 }
